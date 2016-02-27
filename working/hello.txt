@@ -1,0 +1,3 @@
+Hello, my friends. This is an initial text file that will
+display testing for git in the working directory of my 
+forked version of the numerical-mooc repository.
